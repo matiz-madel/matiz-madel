@@ -28,6 +28,6 @@ An enterprise-grade, fully open-source (MIT License) web application engineered 
  * **Resilient Infrastructure:** Includes strict installation pipelines engineered for academic VPS environments (e.g., HestiaCP).
 ## 🔗 Connect with me
  * **Digital Portfolio:** [matiz.me](https://matiz.me/)
- * **LinkedIn:** [matiz-madel](https://www.linkedin.com/in/matiz-madel/
+ * **LinkedIn:** [matiz-madel](https://www.linkedin.com/in/matiz-madel/)
  * **E-mail:** [matiz@madel.me](mailto:matiz@madel.me)
- * **WhatsApp:** [+55 41 99100 3000](https://api.whatsapp.com/send/?phone=5541991003000&text=Hello%21%20I%20came%20across%20your%20Github%20profile%20and%20would%20like%20to%20get%20in%20touch.)
+ * **WhatsApp:** [+55 41 99100 3000](https://api.whatsapp.com/send/?phone=5541991003000&text=Hello%21%20I%20came%20across%20your%20Github%20profile%20and%20I%20would%20like%20to%20get%20in%20touch.)
