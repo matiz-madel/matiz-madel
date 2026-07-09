@@ -1,6 +1,6 @@
 # ⚖️ Matiz Madel: Legal Research & Software Architecture
-Welcome to my digital repository. Based in Curitiba, Brazil, I operate at the intersection of software engineering and constitutional law. I am currently pursuing a Bachelor of Laws at the Universidade Federal do Paraná (UFPR), augmented by a foundational background in Information Systems from the Universidade Tecnológica Federal do Paraná (UTFPR) and specialized mobile development from the Apple Developer Academy (PUCPR).
-My repositories explore the synthesis of technology, human rights, public policy, and algorithmic epistemology. My primary focus is engineering optimized digital infrastructures for academic preservation and conducting socio-legal analysis of affirmative action policies.
+Welcome to my digital repository. Based in Curitiba, Brazil, I operate at the intersection of software engineering and humans rights. I am currently pursuing a Bachelor of Laws at the Universidade Federal do Paraná (UFPR), with a background of studies in Information Systems from the Universidade Tecnológica Federal do Paraná (UTFPR) and specialized iOS from the Apple Developer Academy (PUCPR).
+My repositories explore the synthesis of technology, human rights, public policy, and algorithmic epistemology.
 ## 🔬 Academic Corpus & Legal Research
 My legal research centers on human rights, public policy frameworks, and the mitigation of systemic vulnerabilities, with a specific focus on non-binary identities and transgender rights within the Brazilian public higher education system.
 ### Featured Academic Contributions
@@ -14,11 +14,11 @@ My legal research centers on human rights, public policy frameworks, and the mit
 My engineering philosophy prioritizes type safety, high performance, robust server-side rendering and Search Engine Optimization (SEO).
 | Architectural Domain | Frameworks, Languages & Tooling |
 |---|---|
-| **Backend & Domain Logic** | PHP 8.4, Laravel 13, Eloquent ORM, MySQL |
-| **Administration / CMS** | Filament v5, Livewire, Alpine.js |
-| **Frontend Rendering** | Tailwind CSS, Vite 8, Node.js 20+ |
+| **Backend & Domain Logic** | PHP, Laravel, Eloquent ORM, MySQL |
+| **Administration / CMS** | Filament, Livewire, Alpine.js |
+| **Frontend Rendering** | Tailwind CSS, Vite, Node.js |
 | **Mobile Ecosystem** | Swift, iOS Development |
-| **DevOps & Telemetry** | Linux Ubuntu, VPS, Nginx, HestiaCP, Sentry |
+| **DevOps & Telemetry** | Linux Ubuntu Server, VPS, Nginx, HestiaCP, Sentry |
 ## 🚀 Featured Open-Source Engineering
 ### Academic-Researcher-Web-Portfolio
 An enterprise-grade, fully open-source (MIT License) web application engineered to democratize the digital visibility of highly specialized researchers and academics.
