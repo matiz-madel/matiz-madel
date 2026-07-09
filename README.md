@@ -30,4 +30,4 @@ An enterprise-grade, fully open-source (MIT License) web application engineered 
  * **Digital Portfolio:** [matiz.me](https://matiz.me/)
  * **LinkedIn:** [matiz-madel](https://www.linkedin.com/in/matiz-madel/
  * **E-mail:** [matiz@madel.me](mailto:matiz@madel.me)
- * **WhatsApp:** [+55 41 99100 3000](https://api.whatsapp.com/send/?phone=5541991003000&text=Bonjour%20%21%20J%27ai%20consult%C3%A9%20votre%20portfolio%20en%20ligne%20et%20je%20souhaiterais%20vous%20contacter.)
+ * **WhatsApp:** [+55 41 99100 3000](https://api.whatsapp.com/send/?phone=5541991003000&text=Hello%21%20I%20came%20across%20your%20Github%20profile%20and%20would%20like%20to%20get%20in%20touch.)
